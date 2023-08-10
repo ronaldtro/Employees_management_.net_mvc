@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAppNet7MVC.props" />
+</Project>
