@@ -21,6 +21,9 @@ La webApp permite:
 ## Como empezar
 ## Configuracion rapida
 
+./📂Script Database
+- 💾 Ubicacion de la db.
+
 Local Connection
 ```bash
  "ConnectionStrings": {
