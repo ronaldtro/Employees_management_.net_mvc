@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\WebAppNet7MVC\\WebAppNet7MVC\\WebAppNet7MVC.csproj": {}
+    "C:\\Users\\ronald87\\Desktop\\Ronald Info\\Programacion\\Asp .net 7\\Projects\\MVC-NET7\\WebAppNet7MVC\\WebAppNet7MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\WebAppNet7MVC\\WebAppNet7MVC\\WebAppNet7MVC.csproj": {
+    "C:\\Users\\ronald87\\Desktop\\Ronald Info\\Programacion\\Asp .net 7\\Projects\\MVC-NET7\\WebAppNet7MVC\\WebAppNet7MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\WebAppNet7MVC\\WebAppNet7MVC\\WebAppNet7MVC.csproj",
+        "projectUniqueName": "C:\\Users\\ronald87\\Desktop\\Ronald Info\\Programacion\\Asp .net 7\\Projects\\MVC-NET7\\WebAppNet7MVC\\WebAppNet7MVC.csproj",
         "projectName": "WebAppNet7MVC",
-        "projectPath": "C:\\Users\\Admin\\Documents\\WebAppNet7MVC\\WebAppNet7MVC\\WebAppNet7MVC.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\WebAppNet7MVC\\WebAppNet7MVC\\obj\\",
+        "projectPath": "C:\\Users\\ronald87\\Desktop\\Ronald Info\\Programacion\\Asp .net 7\\Projects\\MVC-NET7\\WebAppNet7MVC\\WebAppNet7MVC.csproj",
+        "packagesPath": "C:\\Users\\ronald87\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ronald87\\Desktop\\Ronald Info\\Programacion\\Asp .net 7\\Projects\\MVC-NET7\\WebAppNet7MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ronald87\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

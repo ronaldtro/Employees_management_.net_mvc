@@ -36,3 +36,41 @@ C:\Users\Admin\Documents\WebAppNet7MVC\WebAppNet7MVC\obj\Debug\net7.0\refint\Web
 C:\Users\Admin\Documents\WebAppNet7MVC\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.pdb
 C:\Users\Admin\Documents\WebAppNet7MVC\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.genruntimeconfig.cache
 C:\Users\Admin\Documents\WebAppNet7MVC\WebAppNet7MVC\obj\Debug\net7.0\ref\WebAppNet7MVC.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\WebAppNet7MVC.staticwebassets.runtime.json
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\WebAppNet7MVC.exe
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\WebAppNet7MVC.deps.json
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\WebAppNet7MVC.runtimeconfig.json
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\WebAppNet7MVC.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\WebAppNet7MVC.pdb
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.csproj.AssemblyReference.cache
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.AssemblyInfoInputs.cache
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.AssemblyInfo.cs
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.csproj.CoreCompileInputs.cache
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.RazorAssemblyInfo.cache
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.RazorAssemblyInfo.cs
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\staticwebassets\msbuild.WebAppNet7MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppNet7MVC.props
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppNet7MVC.props
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppNet7MVC.props
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\scopedcss\bundle\WebAppNet7MVC.styles.css
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\scopedcss\projectbundle\WebAppNet7MVC.bundle.scp.css
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.csproj.CopyComplete
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\refint\WebAppNet7MVC.dll
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.pdb
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\WebAppNet7MVC.genruntimeconfig.cache
+C:\Users\ronald87\Desktop\Ronald Info\Programacion\Asp .net 7\Projects\MVC-NET7\WebAppNet7MVC\obj\Debug\net7.0\ref\WebAppNet7MVC.dll
